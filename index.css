@@ -1,0 +1,11 @@
+h1 {
+    margin: 10px auto;
+    width: 50vw;
+    border: 2px solid black;
+    transition: all 2s ease;
+    text-align: center;
+}
+h1:hover {
+    transform: scale(1.5);
+    background: green;
+}
